@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Pujari/@aditypujari854
+- 👋 Hi, I’m Aditya Pujari / @adityapujari854
 - 👀 I’m interested in coding,makings own codes 
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate with Pro Pogrammers/Coders
