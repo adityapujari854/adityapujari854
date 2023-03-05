@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Pujari / @adityapujari854
-- 👀 I’m interested in coding and developing sofwares/applications
+- 👀 I’m interested in coding and developing softwares/applications
 - 🎯 Proficient in C and C++ Programming languages
 - 🌱 I’m currently learning Python, CSS, Javascript & HTML
 - 💞️ I’m looking to collaborate with experienced programmers/coders
