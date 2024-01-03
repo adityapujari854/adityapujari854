@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Pujari / @adityapujari854
 - 👀 I’m interested in coding and developing softwares/applications
 - 🎯 Proficient in C and C++ Programming languages
-- 🌱 I’m currently learning Python, CSS, Javascript & HTML
+- 🌱 I am currently learning Python, HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate with experienced programmers/coders
 - 📫 How to reach me - 9172375594
 - 📚 Currently studying at - GH Raisoni College of Engineering & Management
