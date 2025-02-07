@@ -4,7 +4,7 @@
 - 🌱 I am currently learning Machine Learning Algorithms
 - 📫 Reach out to me - adityapujari542@gmail.com / 9172375594
 - 📚 Currently Pursuing B.Tech in Computer Engineering
-- 
+  
 - 👤 My Portfolio - https://adityapujari854.github.io/My-Portfolio/
 <!---
 adityapujari854/aditya pujari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
