@@ -8,7 +8,8 @@ I’m Aditya Pujari, a Computer Engineering student skilled in PHP, JavaScript, 
 
 • Online Examination System – PHP/MySQL-based test platform with scoring logic
 
-• Homezy – Full-stack booking platform built with FastAPI and React - https://homezy2025.vercel.app/
+• Homezy – Full-stack booking platform built with FastAPI and React (https://homezy2025.vercel.app)
+
 
 🔹 Skills
 
