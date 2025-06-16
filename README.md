@@ -21,6 +21,6 @@ I’m Aditya Pujari, a Computer Engineering student skilled in PHP, JavaScript, 
 • OOP, MVC, Clean Code, CI/CD
 
 Portfolio:
-https://adityapujari854.github.io/My-Portfolio
-Email: adityapujari542@gmail.com | Contact: +91 91723 75594
+https://adityapujari854.github.io/My-Portfolio |
+Email: adityapujari542@gmail.com | Contact: +91 91723 75594 |
 LinkendIn: https://www.linkedin.com/in/adityapujari854
