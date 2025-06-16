@@ -3,7 +3,9 @@ I’m Aditya Pujari, a Computer Engineering student skilled in PHP, JavaScript, 
 
 🔹 Projects
 • Mystack – Custom WordPress plugin to display developer tech stacks
+
 • Online Examination System – PHP/MySQL-based test platform with scoring logic
+
 • Homezy – Full-stack booking platform built with FastAPI and React
 
 🔹 Skills
