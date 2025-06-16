@@ -11,7 +11,7 @@ I’m Aditya Pujari, a Computer Engineering student skilled in PHP, JavaScript, 
 • React.js, Next.js, HTML, CSS, Tailwind CSS
 • WordPress Plugin/Theme Development, Gutenberg
 • FastAPI, MySQL, MongoDB, REST APIs
-• Git, GitHub Actions, Docker (basic), Composer
+• Git, GitHub, Docker, Composer
 • OOP, MVC, Clean Code, CI/CD
 
 Portfolio: https://adityapujari854.github.io/My-Portfolio
