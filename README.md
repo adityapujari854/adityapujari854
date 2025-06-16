@@ -1,15 +1,19 @@
-I'm a Computer Engineering student with experience in PHP, JavaScript, WordPress, React, and FastAPI. Skilled in building full-stack web applications and WordPress plugins with clean architecture and REST APIs.
+🔹 About Me
+I’m Aditya Pujari, a Computer Engineering student skilled in PHP, JavaScript, React, and WordPress. I build scalable full-stack solutions, WordPress plugins, and backend APIs using FastAPI and MongoDB. I’m passionate about open-source development and modern WordPress architecture.
 
-Skills: PHP, JavaScript, React, WordPress, FastAPI, MongoDB, MySQL, Git, CI/CD
+🔹 Key Projects
 
-Projects:
+Mystack WordPress Plugin – Custom plugin for curated tech stack display
+GitHub: github.com/adityapujari854/Mystack-WordPress-Plugin
 
-Homezy: Urban services booking platform (FastAPI + React)
+Online Examination System – Full PHP/MySQL-based exam portal with authentication
+GitHub: github.com/adityapujari854/Online-Examination-System
 
-WordPress Quiz Plugin: Modified and extended WordPress plugin for surveys and scoring
+Homezy – Urban services booking platform (FastAPI + React)
 
-ProblemSolving.Live: Platform for exam prep using HTML/CSS/JS
+🔹 Skills
+PHP, JavaScript, React.js, WordPress, HTML/CSS, MySQL, FastAPI, Git, REST APIs
 
-Portfolio: adityapujari854.github.io
-GitHub: github.com/adityapujari854
+Portfolio: https://adityapujari854.github.io/My-Portfolio
 Email: adityapujari542@gmail.com | Contact: +91 91723 75594
+GitHub: github.com/adityapujari854
