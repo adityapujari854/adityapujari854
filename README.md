@@ -23,4 +23,4 @@ I’m Aditya Pujari, a Computer Engineering student skilled in PHP, JavaScript, 
 Portfolio:
 https://adityapujari854.github.io/My-Portfolio
 Email: adityapujari542@gmail.com | Contact: +91 91723 75594
-GitHub: github.com/adityapujari854
+LinkendIn: https://www.linkedin.com/in/adityapujari854
