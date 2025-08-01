@@ -28,5 +28,6 @@ I’m Aditya Pujari, a Computer Engineering student aiming for an SDE role, with
 
 
 **Portfolio**: [https://adityapujari854.github.io/My-Portfolio](https://adityapujari854.github.io/My-Portfolio) |
-**Email**: [adityapujari542@gmail.com](mailto:adityapujari542@gmail.com) | **Contact**: +91 91723 75594 | 
+**Email**: [adityapujari542@gmail.com](mailto:adityapujari542@gmail.com) | **Contact**: +91 91723 75594 |
+
 **LinkedIn**: [https://www.linkedin.com/in/adityapujari854](https://www.linkedin.com/in/adityapujari854)
