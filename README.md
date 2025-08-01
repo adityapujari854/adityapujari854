@@ -5,11 +5,11 @@ I’m Aditya Pujari, a Computer Engineering student aiming for an SDE role, with
 
 🔹 **Projects**
 
+• Homezy – Full-stack booking platform built with FastAPI and React ([https://homezy2025.vercel.app](https://homezy2025.vercel.app))
+
 • Sort Visualizer – React-based tool to animate sorting algorithms like Bubble, Merge & Quick Sort
 
 • Problem Solving Platform – GATE/coding/aptitude prep platform with custom UI and validation logic
-
-• Homezy – Full-stack booking platform built with FastAPI and React ([https://homezy2025.vercel.app](https://homezy2025.vercel.app))
 
 
 🔹 **Skills**
