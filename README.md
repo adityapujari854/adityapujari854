@@ -12,6 +12,7 @@ I’m Aditya Pujari, a Computer Engineering student aiming for an SDE role, with
 • Problem Solving Platform – GATE/coding/aptitude prep platform with custom UI and validation logic ([https://adityapujari854.github.io/problem-solving](https://adityapujari854.github.io/problem-solving))
 
 
+
 🔹 **Skills**
 
 • Python, C++, C, Bash, JavaScript (ES6+)
