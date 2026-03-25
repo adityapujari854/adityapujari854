@@ -9,7 +9,7 @@ I’m Aditya Pujari, a Computer Engineering student aiming for an SDE role, with
 
 • Sort Visualizer – React-based tool to animate sorting algorithms like Bubble, Merge & Quick Sort
 
-• Problem Solving Platform – GATE/coding/aptitude prep platform with custom UI and validation logic
+• Problem Solving Platform – GATE/coding/aptitude prep platform with custom UI and validation logic ([https://adityapujari854.github.io/problem-solving](https://adityapujari854.github.io/problem-solving))
 
 
 🔹 **Skills**
