@@ -1,34 +1,138 @@
-🔹 **About Me**
+# Hi there 👋 I'm Aditya Pujari
 
-I’m Aditya Pujari, a Computer Engineering student aiming for an SDE role, with strong skills in Python, C++, Data Structures, and scalable system design. I build full-stack applications, performance-optimized tools, and backend APIs using FastAPI, React, and Docker. I’m passionate about clean code, problem-solving, and building real-world software with solid architecture and developer-first principles.
+## 🚀 About Me
 
+I'm a Final Year B.Tech Computer Engineering student from Pune, India, passionate about **Cloud Computing, DevOps, Linux, AWS, Kubernetes, Docker, and Automation**.
 
-🔹 **Projects**
+I enjoy building scalable infrastructure, automating deployments, containerizing applications, and learning cloud-native technologies. My goal is to become a DevOps/Cloud Engineer who builds reliable, secure, and highly available systems.
 
-• Homezy – Full-stack booking platform built with FastAPI and React ([https://homezy2025.vercel.app](https://homezy2025.vercel.app))
+Currently exploring:
+- ☁️ AWS Cloud
+- 🐳 Docker
+- ☸️ Kubernetes
+- ⚙️ Jenkins & CI/CD
+- 🐧 Linux Administration
+- 📦 Git & GitHub
+- 🐍 Python & Shell Scripting
 
-• Sort Visualizer – React-based tool to animate sorting algorithms like Bubble, Merge & Quick Sort
+---
 
-• Problem Solving Platform – GATE/coding/aptitude prep platform with custom UI and validation logic ([https://adityapujari854.github.io/problem-solving](https://adityapujari854.github.io/problem-solving))
+## 💻 Tech Stack
 
+### Cloud
+- AWS (EC2, IAM, S3)
 
+### DevOps
+- Docker
+- Kubernetes
+- Jenkins
+- Git
+- GitHub
+- GitLab CI
+- CI/CD
 
-🔹 **Skills**
+### Operating Systems
+- Linux
+- Ubuntu
 
-• Python, C++, C, Bash, JavaScript (ES6+)
+### Programming
+- Python
+- Bash
+- Shell Scripting
+- C++
+- C
 
-• Data Structures, Algorithms, OOP, System Design
+### Backend
+- FastAPI
+- REST APIs
 
-• React.js, Next.js, HTML, CSS, Tailwind CSS
+### Databases
+- MongoDB
+- PostgreSQL
+- ChromaDB
 
-• FastAPI, MongoDB, PostgreSQL, MySQL, REST APIs
+---
 
-• Git, GitHub, Docker, Redis, Celery, Cron Jobs
+# 🚀 Featured Projects
 
-• MVC Architecture, Clean Code, CI/CD, Unit Testing, Agile
+### 🔹 CI/CD Pipeline using Jenkins
 
+- Automated build and deployment using Jenkins
+- Integrated GitHub Webhooks
+- Dockerized applications
+- Deployed on AWS EC2
+- Reduced manual deployment effort through automation
 
-**Portfolio**: [https://adityapujari854.github.io/My-Portfolio](https://adityapujari854.github.io/My-Portfolio) |
-**Email**: [adityapujari542@gmail.com](mailto:adityapujari542@gmail.com) | **Contact**: +91 91723 75594 |
+---
 
-**LinkedIn**: [https://www.linkedin.com/in/adityapujari854](https://www.linkedin.com/in/adityapujari854)
+### 🔹 Nimbus AI
+
+Multi-Agent AI platform built using
+
+- FastAPI
+- Docker
+- AWS
+- ChromaDB
+
+Features
+
+- Context-aware conversations
+- Memory retrieval
+- REST APIs
+- Containerized deployment
+
+---
+
+### 🔹 IoT Weather Monitoring System
+
+Built using
+
+- AWS IoT
+- Python
+- Arduino
+
+Features
+
+- Real-time sensor monitoring
+- Cloud integration
+- Automated data collection
+
+---
+
+## 🌱 Currently Learning
+
+- Amazon EKS
+- Terraform
+- Prometheus
+- Grafana
+- GitHub Actions
+- Helm
+- ArgoCD
+- Infrastructure as Code
+- Monitoring & Observability
+
+---
+
+## 📈 GitHub Goals
+
+✔ Build production-ready DevOps projects
+
+✔ Learn Kubernetes deeply
+
+✔ Contribute to Open Source
+
+✔ Earn AWS Certifications
+
+✔ Build Cloud Native Applications
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email:
+adityapujari542@gmail.com
+
+💼 LinkedIn
+https://linkedin.com/in/adityapujari854
+
+📍 Pune, Maharashtra, India
