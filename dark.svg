@@ -188,37 +188,37 @@
     <text x="55" y="353" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#94A3B8">Infrastructure Automation • Cloud Native</text>
 
     <g opacity="0" >
-      <text x="40" y="392" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#C7D2FE">📍 Pune, Maharashtra</text>
+      <text x="40" y="370" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#C7D2FE">📍 Pune, Maharashtra</text>
       <animate attributeName="opacity" from="0" to="1" begin="4s" dur="0.8s" fill="freeze"/>
     </g>
-    <g opacity="0" transform="translate(0 34)">
-      <text x="40" y="392" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#C7D2FE">🎓 Final Year B.Tech Computer Engineering</text>
+    <g opacity="0" transform="translate(0 28)">
+      <text x="40" y="370" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#C7D2FE">🎓 Final Year B.Tech Computer Engineering</text>
       <animate attributeName="opacity" from="0" to="1" begin="5.2s" dur="0.8s" fill="freeze"/>
     </g>
-    <g opacity="0" transform="translate(0 68)">
-      <text x="40" y="392" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#94A3B8">☁ Building Cloud Native Infrastructure</text>
+    <g opacity="0" transform="translate(0 56)">
+      <text x="40" y="370" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#94A3B8">☁ Building Cloud Native Infrastructure</text>
       <animate attributeName="opacity" from="0" to="1" begin="6.4s" dur="0.8s" fill="freeze"/>
     </g>
 
-    <g transform="translate(55 432)" opacity="0.95">
-      <g transform="translate(0 0)"><rect x="0" y="0" width="92" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="46" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">AWS</text></g>
-      <g transform="translate(210 0)"><rect x="0" y="0" width="138" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="69" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Kubernetes</text></g>
-      <g transform="translate(420 0)"><rect x="0" y="0" width="96" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="48" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Docker</text></g>
+    <g transform="translate(55 448)" opacity="0.95">
+      <g transform="translate(0 0)"><rect x="0" y="0" width="92" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="46" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">AWS</text></g>
+      <g transform="translate(210 0)"><rect x="0" y="0" width="138" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="69" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Kubernetes</text></g>
+      <g transform="translate(420 0)"><rect x="0" y="0" width="96" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="48" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Docker</text></g>
     </g>
-    <g transform="translate(55 468)" opacity="0.95">
-      <g transform="translate(0 0)"><rect x="0" y="0" width="112" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="56" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Terraform</text></g>
-      <g transform="translate(210 0)"><rect x="0" y="0" width="154" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="77" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">GitHub Actions</text></g>
-      <g transform="translate(420 0)"><rect x="0" y="0" width="126" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="63" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Prometheus</text></g>
+    <g transform="translate(55 480)" opacity="0.95">
+      <g transform="translate(0 0)"><rect x="0" y="0" width="112" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="56" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Terraform</text></g>
+      <g transform="translate(210 0)"><rect x="0" y="0" width="154" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="77" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">GitHub Actions</text></g>
+      <g transform="translate(420 0)"><rect x="0" y="0" width="126" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="63" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Prometheus</text></g>
     </g>
-    <g transform="translate(55 504)" opacity="0.95">
-      <g transform="translate(0 0)"><rect x="0" y="0" width="126" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="63" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">PostgreSQL</text></g>
-      <g transform="translate(210 0)"><rect x="0" y="0" width="96" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="48" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Python</text></g>
-      <g transform="translate(420 0)"><rect x="0" y="0" width="96" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="48" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">FastAPI</text></g>
+    <g transform="translate(55 512)" opacity="0.95">
+      <g transform="translate(0 0)"><rect x="0" y="0" width="126" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="63" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">PostgreSQL</text></g>
+      <g transform="translate(210 0)"><rect x="0" y="0" width="96" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="48" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Python</text></g>
+      <g transform="translate(420 0)"><rect x="0" y="0" width="96" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="48" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">FastAPI</text></g>
     </g>
-    <g transform="translate(55 540)" opacity="0.95">
-      <g transform="translate(0 0)"><rect x="0" y="0" width="106" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="53" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">MongoDB</text></g>
-      <g transform="translate(210 0)"><rect x="0" y="0" width="76" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="38" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Git</text></g>
-      <g transform="translate(420 0)"><rect x="0" y="0" width="88" height="30" rx="15" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="44" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Linux</text></g>
+    <g transform="translate(55 544)" opacity="0.95">
+      <g transform="translate(0 0)"><rect x="0" y="0" width="106" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="53" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">MongoDB</text></g>
+      <g transform="translate(210 0)"><rect x="0" y="0" width="76" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="38" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Git</text></g>
+      <g transform="translate(420 0)"><rect x="0" y="0" width="88" height="26" rx="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/><text x="44" y="18" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#E0F2FE">Linux</text></g>
     </g>
 
     <g transform="translate(520 323)">
