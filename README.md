@@ -4,7 +4,6 @@
   <img alt="Aditya Pujari DevOps hero banner" src="./dark.svg" width="1280" height="590">
 </picture>
 
-<p><strong>Preview:</strong> open <code>preview.html</code> in a browser to view both the dark and light banner variants.</p>
 
 # Hi there 👋 I'm Aditya Pujari
 
