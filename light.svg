@@ -180,15 +180,15 @@
     <text x="55" y="353" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">Infrastructure Automation • Cloud Native</text>
 
     <g opacity="0" >
-      <text x="40" y="356" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">📍 Pune, Maharashtra</text>
+      <text x="40" y="378" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">📍 Pune, Maharashtra</text>
       <animate attributeName="opacity" from="0" to="1" begin="4s" dur="0.8s" fill="freeze"/>
     </g>
     <g opacity="0" transform="translate(0 24)">
-      <text x="40" y="356" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">🎓 Final Year B.Tech Computer Engineering</text>
+      <text x="40" y="378" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">🎓 Final Year B.Tech Computer Engineering</text>
       <animate attributeName="opacity" from="0" to="1" begin="5.2s" dur="0.8s" fill="freeze"/>
     </g>
     <g opacity="0" transform="translate(0 48)">
-      <text x="40" y="356" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">☁ Building Cloud Native Infrastructure</text>
+      <text x="40" y="378" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">☁ Building Cloud Native Infrastructure</text>
       <animate attributeName="opacity" from="0" to="1" begin="6.4s" dur="0.8s" fill="freeze"/>
     </g>
 
