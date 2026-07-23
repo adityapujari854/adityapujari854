@@ -1,4 +1,4 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Aditya Pujari premium DevOps profile banner">
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Aditya Pujari premium DevOps profile banner">
   <defs>
     <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#F5F8FB"/>
@@ -88,10 +88,10 @@
     <clipPath id="typeClip7"><rect id="typeRect7" x="0" y="0" width="0" height="40" rx="8"/></clipPath>
     <clipPath id="typeClip8"><rect id="typeRect8" x="0" y="0" width="0" height="40" rx="8"/></clipPath>
   </defs>
-  <g id="sceneScale" transform="translate(-41.6 -23.4) scale(1.065)">
+  <g id="sceneScale" transform="translate(-32 -45) scale(1.05)">
 
-  <rect width="1280" height="720" fill="url(#bgGradient)"/>
-  <rect width="1280" height="720" fill="url(#gridPattern)" opacity="0.08"/>
+  <rect width="1280" height="640" fill="url(#bgGradient)"/>
+  <rect width="1280" height="640" fill="url(#gridPattern)" opacity="0.08"/>
   <g opacity="0.9">
     <circle cx="200" cy="100" r="150" fill="url(#haloCyan)" filter="url(#softGlow)">
       <animate attributeName="cy" values="100;108;100" dur="10s" repeatCount="indefinite"/>
@@ -101,8 +101,8 @@
     </circle>
   </g>
 
-  <rect x="40" y="40" width="430" height="545" rx="28" fill="url(#panelGradient)" stroke="rgba(15,23,42,0.12)" stroke-width="1.2" filter="url(#panelNoise)"/>
-  <rect x="445" y="52" width="795" height="635" rx="28" fill="url(#glassPanel)" stroke="rgba(15,23,42,0.08)" stroke-width="1.2" filter="url(#panelNoise)"/>
+  <rect x="40" y="40" width="430" height="522" rx="28" fill="url(#panelGradient)" stroke="rgba(15,23,42,0.12)" stroke-width="1.2" filter="url(#panelNoise)"/>
+  <rect x="445" y="52" width="795" height="590" rx="28" fill="url(#glassPanel)" stroke="rgba(15,23,42,0.08)" stroke-width="1.2" filter="url(#panelNoise)"/>
 
   <rect x="52" y="52" width="406" height="42" rx="22" fill="rgba(255,255,255,0.08)"/>
   <circle cx="76" cy="74" r="6" fill="#FB7185"/>
@@ -114,7 +114,7 @@
   </g>
 
   <g transform="translate(40 40)">
-    <rect x="20" y="56" width="390" height="467" rx="24" fill="rgba(255,255,255,0.05)" stroke="rgba(15,23,42,0.06)"/>
+    <rect x="20" y="56" width="390" height="444" rx="24" fill="rgba(255,255,255,0.05)" stroke="rgba(15,23,42,0.06)"/>
     <rect x="35" y="90" width="360" height="360" rx="36" fill="url(#portraitPlaceholder)"/>
     <rect x="35" y="90" width="360" height="360" rx="36" fill="rgba(15,23,42,0.24)" stroke="rgba(56,189,248,0.2)" stroke-width="1.4"/>
     <rect x="35" y="90" width="360" height="360" rx="36" fill="none"/>
@@ -192,22 +192,22 @@
       <animate attributeName="opacity" from="0" to="1" begin="6.4s" dur="0.8s" fill="freeze"/>
     </g>
 
-    <g transform="translate(55 476)" opacity="0.95">
+    <g transform="translate(55 456)" opacity="0.95">
       <g transform="translate(0 0)"><rect x="0" y="0" width="92" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="46" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">AWS</text></g>
       <g transform="translate(210 0)"><rect x="0" y="0" width="138" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="69" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">Kubernetes</text></g>
       <g transform="translate(420 0)"><rect x="0" y="0" width="96" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="48" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">Docker</text></g>
     </g>
-    <g transform="translate(55 518)" opacity="0.95">
+    <g transform="translate(55 494)" opacity="0.95">
       <g transform="translate(0 0)"><rect x="0" y="0" width="112" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="56" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">Terraform</text></g>
       <g transform="translate(210 0)"><rect x="0" y="0" width="154" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="77" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">GitHub Actions</text></g>
       <g transform="translate(420 0)"><rect x="0" y="0" width="126" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="63" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">Prometheus</text></g>
     </g>
-    <g transform="translate(55 560)" opacity="0.95">
+    <g transform="translate(55 532)" opacity="0.95">
       <g transform="translate(0 0)"><rect x="0" y="0" width="126" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="63" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">PostgreSQL</text></g>
       <g transform="translate(210 0)"><rect x="0" y="0" width="96" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="48" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">Python</text></g>
       <g transform="translate(420 0)"><rect x="0" y="0" width="96" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="48" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">FastAPI</text></g>
     </g>
-    <g transform="translate(55 602)" opacity="0.95">
+    <g transform="translate(55 570)" opacity="0.95">
       <g transform="translate(0 0)"><rect x="0" y="0" width="106" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="53" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">MongoDB</text></g>
       <g transform="translate(210 0)"><rect x="0" y="0" width="76" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="38" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">Git</text></g>
       <g transform="translate(420 0)"><rect x="0" y="0" width="88" height="30" rx="15" fill="rgba(15,23,42,0.05)" stroke="rgba(15,23,42,0.12)"/><text x="44" y="20" text-anchor="middle" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12.5" fill="#0F172A">Linux</text></g>
