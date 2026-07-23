@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Aditya Pujari DevOps hero banner" src="./dark.svg" width="1180" height="610">
+  <img alt="Aditya Pujari DevOps hero banner" src="./dark.svg" width="1280" height="720">
 </picture>
 
 <p><strong>Preview:</strong> open <code>preview.html</code> in a browser to view both the dark and light banner variants.</p>
