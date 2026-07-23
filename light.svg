@@ -40,6 +40,11 @@
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
 
+    <linearGradient id="portraitPlaceholder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e9eef7"/>
+      <stop offset="100%" stop-color="#d4dfea"/>
+    </linearGradient>
+
     <radialGradient id="haloCyan" cx="0.5" cy="0.5" r="0.5">
       <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.24"/>
       <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
@@ -70,8 +75,8 @@
       <rect width="8" height="1" fill="#0F172A" opacity="0.05"/>
     </pattern>
 
-    <clipPath id="portraitClip">
-      <rect x="45" y="100" width="340" height="340" rx="36"/>
+    <clipPath id="portraitClip" clipPathUnits="objectBoundingBox">
+      <rect x="0" y="0" width="1" height="1" rx="0.106"/>
     </clipPath>
 
     <clipPath id="typeClip1"><rect id="typeRect1" x="0" y="0" width="0" height="40" rx="8"/></clipPath>
@@ -109,11 +114,20 @@
 
   <g transform="translate(40 40)">
     <rect x="20" y="56" width="390" height="452" rx="24" fill="rgba(255,255,255,0.05)" stroke="rgba(15,23,42,0.06)"/>
+    <rect x="45" y="100" width="340" height="340" rx="36" fill="url(#portraitPlaceholder)"/>
     <rect x="45" y="100" width="340" height="340" rx="36" fill="rgba(15,23,42,0.56)" stroke="rgba(56,189,248,0.2)" stroke-width="1.4"/>
     <rect x="45" y="100" width="340" height="340" rx="36" fill="rgba(255,255,255,0.02)"/>
+    <g opacity="0.35">
+      <circle cx="215" cy="220" r="40" fill="rgba(15,23,42,0.25)"/>
+      <circle cx="185" cy="210" r="8" fill="rgba(255,255,255,0.18)"/>
+      <circle cx="245" cy="210" r="8" fill="rgba(255,255,255,0.18)"/>
+      <path d="M180 250 C200 280 230 280 250 250" stroke="rgba(255,255,255,0.18)" stroke-width="4" fill="none" stroke-linecap="round"/>
+      <rect x="145" y="290" width="140" height="16" rx="8" fill="rgba(255,255,255,0.12)"/>
+      <rect x="165" y="318" width="100" height="10" rx="5" fill="rgba(255,255,255,0.12)"/>
+    </g>
     <g id="portraitFloat">
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 4; 0 0" dur="8s" repeatCount="indefinite"/>
-      <image x="45" y="100" width="340" height="340" preserveAspectRatio="xMidYMid slice" xlink:href="assets/profile-biometric.png" href="assets/profile-biometric.png" clip-path="url(#portraitClip)"/>
+      <image x="45" y="100" width="340" height="340" preserveAspectRatio="xMidYMid slice" xlink:href="assets/adityaprofile.png" href="assets/adityaprofile.png" clip-path="url(#portraitClip)" opacity="0.98"/>
       <rect x="45" y="100" width="340" height="340" rx="36" fill="url(#scanlines)" opacity="0.12"/>
       <rect x="45" y="100" width="340" height="340" rx="36" fill="url(#glassShine)" opacity="0.18"/>
       <rect x="45" y="100" width="340" height="24" rx="12" fill="url(#beamGradient)" opacity="0.32">
@@ -268,4 +282,5 @@
     </g>
   </g>
 </svg>
+
 
