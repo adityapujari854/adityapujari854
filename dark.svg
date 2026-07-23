@@ -94,6 +94,7 @@
     <clipPath id="typeClip7"><rect id="typeRect7" x="0" y="0" width="0" height="40" rx="8"/></clipPath>
     <clipPath id="typeClip8"><rect id="typeRect8" x="0" y="0" width="0" height="40" rx="8"/></clipPath>
   </defs>
+  <g id="sceneScale" transform="translate(-41.6 -22.75) scale(1.065)">
 
   <rect width="1280" height="700" fill="url(#bgGradient)"/>
   <rect width="1280" height="700" fill="url(#gridPattern)" opacity="0.08"/>
@@ -226,6 +227,7 @@
       <g transform="translate(0 48)"><circle cx="10" cy="10" r="4" fill="#38BDF8" opacity="0.95"/><text x="24" y="14" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12" fill="#94A3B8">Portfolio</text></g>
       <g transform="translate(0 72)"><circle cx="10" cy="10" r="4" fill="#7DD3FC" opacity="0.95"/><text x="24" y="14" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="12" fill="#94A3B8">Email</text></g>
     </g>
+  </g>
   </g>
 </svg>
 
