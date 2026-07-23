@@ -1,9 +1,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Aditya Pujari DevOps hero banner" src="./dark.svg" width="1280" height="560">
+  <img alt="Aditya Pujari DevOps hero banner" src="./dark.svg" width="1280" height="720">
 </picture>
-
 
 # Hi there 👋 I'm Aditya Pujari
 
