@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Aditya Pujari DevOps hero banner" src="./dark.svg" width="1180" height="610">
+</picture>
+
 # Hi there 👋 I'm Aditya Pujari
 
 ## 🚀 About Me

@@ -1,0 +1,289 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Aditya Pujari premium DevOps profile banner">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#EFF6FF"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 590 305" to="360 590 305" dur="18s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="panelGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8FAFC" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#E2E8F0" stop-opacity="0.82"/>
+    </linearGradient>
+
+    <linearGradient id="terminalGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#F8FAFC" stop-opacity="0.85"/>
+    </linearGradient>
+
+    <linearGradient id="accentGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="35%" stop-color="#06B6D4"/>
+      <stop offset="65%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 260 60" to="360 260 60" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="asciiGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="35%" stop-color="#0EA5E9"/>
+      <stop offset="70%" stop-color="#14B8A6"/>
+      <stop offset="100%" stop-color="#10B981"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 180 100" to="360 180 100" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="auroraBlue" cx="0" cy="0" r="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="auroraPurple" cx="0" cy="0" r="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="auroraEmerald" cx="0" cy="0" r="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softBloom" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="cardGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feColorMatrix in="b" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+
+    <filter id="glassBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+
+    <filter id="noiseFilter" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="6" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="5" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="transparent"/>
+      <rect width="8" height="1" fill="#0f172a" opacity="0.05"/>
+    </pattern>
+
+    <mask id="screenMask">
+      <rect width="100%" height="100%" fill="black"/>
+      <rect x="0" y="0" width="430" height="530" rx="22" fill="white"/>
+    </mask>
+
+    <clipPath id="clipPortrait">
+      <rect x="0" y="0" width="430" height="530" rx="22"/>
+    </clipPath>
+
+    <linearGradient id="pillGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F1F5F9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1180" height="610" fill="url(#bgGradient)"/>
+  <rect x="0" y="0" width="1180" height="610" fill="url(#scanlines)" opacity="0.12"/>
+
+  <g opacity="0.85">
+    <ellipse cx="180" cy="90" rx="330" ry="150" fill="url(#auroraBlue)" filter="url(#softBloom)">
+      <animate attributeName="cy" values="90;100;90" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="900" cy="510" rx="300" ry="150" fill="url(#auroraPurple)" filter="url(#softBloom)">
+      <animate attributeName="cx" values="900;930;900" dur="11s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="760" cy="150" rx="240" ry="120" fill="url(#auroraEmerald)" filter="url(#softBloom)">
+      <animate attributeName="cy" values="150;170;150" dur="10s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <g filter="url(#softBloom)" opacity="0.95">
+    <circle cx="170" cy="470" r="2.3" fill="#0284C7">
+      <animateMotion dur="13s" repeatCount="indefinite" path="M0 0 C40 -18 95 24 105 68 C115 108 60 126 10 104 C-26 88 -38 24 0 0"/>
+    </circle>
+    <circle cx="220" cy="200" r="2" fill="#0891B2">
+      <animateMotion dur="10s" repeatCount="indefinite" path="M0 0 C32 15 58 55 16 78 C-24 98 -55 56 -32 18 C-24 8 -10 -5 0 0"/>
+    </circle>
+    <circle cx="930" cy="70" r="2.2" fill="#7C3AED">
+      <animateMotion dur="12s" repeatCount="indefinite" path="M0 0 C26 -32 90 -12 104 25 C118 58 74 98 42 95 C6 91 -10 30 0 0"/>
+    </circle>
+    <circle cx="1040" cy="450" r="1.8" fill="#059669">
+      <animateMotion dur="16s" repeatCount="indefinite" path="M0 0 C30 24 82 34 92 4 C102 -18 70 -42 22 -28 C-8 -20 -12 4 0 0"/>
+    </circle>
+  </g>
+
+  <g mask="url(#screenMask)">
+    <rect x="0" y="0" width="1180" height="610" fill="url(#bgGradient)"/>
+    <rect x="0" y="0" width="1180" height="610" filter="url(#noiseFilter)" opacity="0.12"/>
+  </g>
+
+  <g transform="translate(40 40)">
+    <rect x="0" y="0" width="430" height="530" rx="24" fill="url(#panelGradient)" stroke="rgba(15,23,42,0.08)" stroke-width="1.5" filter="url(#cardGlow)"/>
+    <rect x="12" y="12" width="406" height="506" rx="18" fill="url(#terminalGradient)" opacity="0.45" stroke="rgba(15,23,42,0.05)"/>
+    <rect x="18" y="18" width="394" height="20" rx="10" fill="rgba(15,23,42,0.04)"/>
+    <circle cx="36" cy="28" r="5.5" fill="#fb7185" opacity="0.95"/>
+    <circle cx="56" cy="28" r="5.5" fill="#fbbf24" opacity="0.95"/>
+    <circle cx="76" cy="28" r="5.5" fill="#34d399" opacity="0.95"/>
+
+    <g clip-path="url(#clipPortrait)">
+      <rect x="18" y="58" width="394" height="452" rx="14" fill="url(#panelGradient)" opacity="0.25"/>
+      <rect x="18" y="58" width="394" height="452" fill="url(#scanlines)" opacity="0.08"/>
+
+      <g transform="translate(20 75)">
+        <animateTransform attributeName="transform" type="translate" values="20 75; 18 73; 20 75" dur="5.7s" repeatCount="indefinite"/>
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10" fill="url(#asciiGradient)" opacity="0.9" filter="url(#softBloom)">
+          <tspan x="0" dy="0">  .-''''''-.</tspan>
+          <tspan x="0" dy="14"> /  .-.-.   \\</tspan>
+          <tspan x="0" dy="14">|  /   |   |</tspan>
+          <tspan x="0" dy="14">| |  _  |  |</tspan>
+          <tspan x="0" dy="14">| | ( ) |  |</tspan>
+          <tspan x="0" dy="14">|  \\___/  |</tspan>
+          <tspan x="0" dy="14"> \\  ___  /</tspan>
+          <tspan x="0" dy="14">  `-.__.-'</tspan>
+          <tspan x="0" dy="14">   /|   |\\</tspan>
+          <tspan x="0" dy="14">  /_|___|_\\</tspan>
+        </text>
+      </g>
+
+      <g opacity="0.88">
+        <text x="30" y="85" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="9.5" fill="#2563eb">$ whoami</text>
+      </g>
+
+      <g opacity="0.82">
+        <text x="30" y="425" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10" fill="url(#asciiGradient)">
+          <tspan>██████╗  ██████╗  ██████╗ ███████╗███╗   ██╗</tspan>
+          <tspan x="30" dy="14">██╔══██╗██╔═══██╗██╔═══██╗██╔════╝████╗  ██║</tspan>
+          <tspan x="30" dy="14">██║  ██║██║   ██║██║   ██║█████╗  ██╔██╗ ██║</tspan>
+          <tspan x="30" dy="14">██║  ██║██║   ██║██║   ██║██╔══╝  ██║╚██╗██║</tspan>
+          <tspan x="30" dy="14">██████╔╝╚██████╔╝╚██████╔╝███████╗██║ ╚████║</tspan>
+          <tspan x="30" dy="14">╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═══╝</tspan>
+        </text>
+      </g>
+
+      <g opacity="0.85">
+        <rect x="32" y="96" width="166" height="16" rx="8" fill="rgba(34,211,238,0.16)" stroke="rgba(34,211,238,0.25)"/>
+        <text x="44" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10" fill="#0369A1">ADITYA PUJARI</text>
+      </g>
+
+      <rect x="28" y="86" width="145" height="1.5" fill="url(#accentGradient)" opacity="0.9"/>
+      <rect x="28" y="86" width="145" height="1.5" fill="url(#accentGradient)" opacity="0.28"/>
+    </g>
+
+    <rect x="16" y="56" width="398" height="458" rx="16" stroke="rgba(15,23,42,0.06)" fill="none"/>
+    <rect x="16" y="56" width="398" height="458" rx="16" stroke="url(#accentGradient)" stroke-opacity="0.22" stroke-width="1.2" fill="none">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g transform="translate(480 52)">
+    <rect x="0" y="0" width="660" height="506" rx="28" fill="url(#terminalGradient)" stroke="rgba(15,23,42,0.12)" stroke-width="1.2" filter="url(#glassBlur)" opacity="0.95"/>
+    <rect x="0" y="0" width="660" height="506" rx="28" fill="url(#panelGradient)" opacity="0.94"/>
+    <rect x="0" y="0" width="660" height="42" rx="28" fill="rgba(15,23,42,0.04)"/>
+    <circle cx="28" cy="21" r="6" fill="#fb7185"/>
+    <circle cx="48" cy="21" r="6" fill="#fbbf24"/>
+    <circle cx="68" cy="21" r="6" fill="#34d399"/>
+
+    <g transform="translate(26 54)">
+      <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="15" fill="#475569">$ whoami</text>
+      <text x="0" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="18" fill="#0f172a">Hi 👋</text>
+      <text x="0" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="16" fill="#334155">I'm</text>
+      <text x="0" y="120" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="33" font-weight="700" fill="url(#accentGradient)" filter="url(#softBloom)">Aditya Pujari</text>
+
+      <text x="0" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="15" fill="#64748b">Typewriter</text>
+
+      <g transform="translate(0 194)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="20" fill="#0f172a">DevOps Engineer</text>
+        <rect x="220" y="-12" width="10" height="20" fill="#0891B2">
+          <animate attributeName="opacity" values="1;0;1" dur="0.85s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <g transform="translate(0 230)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">📍 Pune, Maharashtra, India</text>
+      </g>
+
+      <g transform="translate(0 258)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">🎓 Final Year B.Tech Computer Engineering</text>
+      </g>
+
+      <g transform="translate(0 294)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#0f172a">☁ Current Focus</text>
+        <text x="72" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#0284C7">AWS · Kubernetes · Terraform</text>
+      </g>
+
+      <g transform="translate(0 322)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">🤖 Building AI-powered DevOps Projects</text>
+      </g>
+
+      <g transform="translate(0 350)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">🌐 Portfolio</text>
+        <text x="85" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#2563eb">aditya-devops-portfolio.vercel.app</text>
+      </g>
+
+      <g transform="translate(0 378)">
+        <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#475569">✉ Email</text>
+        <text x="60" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#0EA5E9">adityapujari542@gmail.com</text>
+      </g>
+    </g>
+
+    <g transform="translate(24 405)">
+      <g transform="translate(0 0)"><rect x="0" y="0" width="72" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="36" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">AWS</text></g>
+      <g transform="translate(80 0)"><rect x="0" y="0" width="87" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="43.5" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">EC2</text></g>
+      <g transform="translate(175 0)"><rect x="0" y="0" width="88" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="44" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">IAM</text></g>
+      <g transform="translate(271 0)"><rect x="0" y="0" width="86" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="43" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">VPC</text></g>
+      <g transform="translate(365 0)"><rect x="0" y="0" width="92" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="46" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">S3</text></g>
+    </g>
+
+    <g transform="translate(24 446)">
+      <g transform="translate(0 0)"><rect x="0" y="0" width="92" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="46" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Docker</text></g>
+      <g transform="translate(104 0)"><rect x="0" y="0" width="132" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="66" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Docker Compose</text></g>
+      <g transform="translate(248 0)"><rect x="0" y="0" width="98" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="49" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Kubernetes</text></g>
+      <g transform="translate(358 0)"><rect x="0" y="0" width="88" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="44" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Helm</text></g>
+    </g>
+
+    <g transform="translate(24 484)">
+      <g transform="translate(0 0)"><rect x="0" y="0" width="100" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="50" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Terraform</text></g>
+      <g transform="translate(112 0)"><rect x="0" y="0" width="126" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="63" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">GitHub Actions</text></g>
+      <g transform="translate(250 0)"><rect x="0" y="0" width="130" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="65" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">GitLab CI/CD</text></g>
+      <g transform="translate(392 0)"><rect x="0" y="0" width="112" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="56" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Jenkins</text></g>
+    </g>
+
+    <g transform="translate(24 516)">
+      <g transform="translate(0 0)"><rect x="0" y="0" width="86" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="43" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Linux</text></g>
+      <g transform="translate(98 0)"><rect x="0" y="0" width="80" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="40" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Bash</text></g>
+      <g transform="translate(190 0)"><rect x="0" y="0" width="88" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="44" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Python</text></g>
+      <g transform="translate(290 0)"><rect x="0" y="0" width="94" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="47" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">FastAPI</text></g>
+      <g transform="translate(396 0)"><rect x="0" y="0" width="102" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="51" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Redis</text></g>
+    </g>
+
+    <g transform="translate(24 548)">
+      <g transform="translate(0 0)"><rect x="0" y="0" width="112" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="56" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">PostgreSQL</text></g>
+      <g transform="translate(124 0)"><rect x="0" y="0" width="102" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="51" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">MongoDB</text></g>
+      <g transform="translate(238 0)"><rect x="0" y="0" width="98" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="49" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Prometheus</text></g>
+      <g transform="translate(348 0)"><rect x="0" y="0" width="94" height="32" rx="16" fill="url(#pillGrad)" stroke="rgba(15,23,42,0.08)"/><text x="47" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="11" fill="#334155">Grafana</text></g>
+    </g>
+
+    <g transform="translate(24 584)">
+      <g transform="translate(0 0)"><circle cx="16" cy="10" r="14" fill="rgba(15,23,42,0.06)" stroke="rgba(15,23,42,0.16)"/><text x="16" y="15" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10" fill="#0f172a">GH</text></g>
+      <g transform="translate(46 0)"><circle cx="16" cy="10" r="14" fill="rgba(15,23,42,0.06)" stroke="rgba(15,23,42,0.16)"/><text x="16" y="15" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10" fill="#2563eb">IN</text></g>
+      <g transform="translate(92 0)"><circle cx="16" cy="10" r="14" fill="rgba(15,23,42,0.06)" stroke="rgba(15,23,42,0.16)"/><text x="16" y="15" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10" fill="#0EA5E9">P</text></g>
+      <g transform="translate(138 0)"><circle cx="16" cy="10" r="14" fill="rgba(15,23,42,0.06)" stroke="rgba(15,23,42,0.16)"/><text x="16" y="15" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="10" fill="#7C3AED">@</text></g>
+    </g>
+
+    <rect x="0" y="0" width="660" height="506" rx="28" fill="url(#accentGradient)" opacity="0.08"/>
+    <rect x="1" y="1" width="658" height="504" rx="27" fill="none" stroke="rgba(15,23,42,0.09)"/>
+  </g>
+
+  <g opacity="0.14">
+    <rect x="0" y="0" width="1180" height="610" fill="url(#scanlines)"/>
+  </g>
+</svg>
