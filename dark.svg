@@ -1,4 +1,4 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="590" viewBox="0 0 1280 590" role="img" aria-label="Aditya Pujari premium DevOps profile banner">
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="Aditya Pujari premium DevOps profile banner">
   <defs>
     <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#05070F"/>
@@ -94,10 +94,10 @@
     <clipPath id="typeClip7"><rect id="typeRect7" x="0" y="0" width="0" height="40" rx="8"/></clipPath>
     <clipPath id="typeClip8"><rect id="typeRect8" x="0" y="0" width="0" height="40" rx="8"/></clipPath>
   </defs>
-  <g id="sceneScale" transform="translate(-32 -84) scale(1.05)">
+  <g id="sceneScale" transform="translate(-32 -101) scale(1.05)">
 
-  <rect width="1280" height="590" fill="url(#bgGradient)"/>
-  <rect width="1280" height="590" fill="url(#gridPattern)" opacity="0.08"/>
+  <rect width="1280" height="560" fill="url(#bgGradient)"/>
+  <rect width="1280" height="560" fill="url(#gridPattern)" opacity="0.08"/>
   <g opacity="0.9">
     <circle cx="200" cy="100" r="150" fill="url(#haloCyan)" filter="url(#softGlow)">
       <animate attributeName="cy" values="100;108;100" dur="10s" repeatCount="indefinite"/>
