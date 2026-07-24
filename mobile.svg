@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="760" height="1080" viewBox="0 0 760 1080" role="img" aria-label="Aditya Pujari mobile DevOps profile banner">
+  <defs>
+    <linearGradient id="mobileBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070F"/>
+      <stop offset="45%" stop-color="#08111E"/>
+      <stop offset="100%" stop-color="#02050A"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 380 540" to="360 380 540" dur="18s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="mobilePanel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0C1421" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#111B2D" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="mobileGlass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#80B3FF" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="mobileName" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A5F3FC"/>
+      <stop offset="40%" stop-color="#38BDF8"/>
+      <stop offset="70%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="mobileAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+    <linearGradient id="mobileBeam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7EE7FE" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#7EE7FE" stop-opacity="0.52"/>
+      <stop offset="100%" stop-color="#7EE7FE" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="mobileHalo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#67E8F9" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#67E8F9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="mobileGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0 L0 0 0 32" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <pattern id="mobileScanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="transparent"/>
+      <rect width="8" height="1" fill="#FFFFFF" opacity="0.08"/>
+    </pattern>
+    <filter id="mobileGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feBlend in="SourceGraphic" in2="blur" mode="screen"/>
+    </filter>
+    <filter id="mobileNoise" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="14" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0" result="soft"/>
+      <feBlend in="SourceGraphic" in2="soft" mode="screen"/>
+    </filter>
+    <clipPath id="portraitClip"><rect x="100" y="112" width="560" height="360" rx="28"/></clipPath>
+  </defs>
+
+  <rect width="760" height="1080" fill="url(#mobileBg)"/>
+  <rect width="760" height="1080" fill="url(#mobileGrid)" opacity="0.1"/>
+  <ellipse cx="610" cy="240" rx="280" ry="260" fill="url(#mobileHalo)" filter="url(#mobileGlow)"><animate attributeName="cy" values="240;248;240" dur="10s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="120" cy="900" rx="260" ry="220" fill="url(#mobileHalo)" opacity="0.55"><animate attributeName="cx" values="120;140;120" dur="12s" repeatCount="indefinite"/></ellipse>
+  <g fill="#7DD3FC">
+    <circle cx="56" cy="72" r="2" opacity="0.7"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="704" cy="76" r="2" opacity="0.55"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="704" cy="1010" r="2" opacity="0.7"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <rect x="40" y="40" width="680" height="1000" rx="34" fill="url(#mobilePanel)" stroke="#7DD3FC" stroke-opacity="0.35" stroke-width="2" filter="url(#mobileNoise)"/>
+  <rect x="41" y="41" width="678" height="998" rx="33" fill="none" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <path d="M74 94 H686" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <circle cx="77" cy="69" r="6" fill="#38BDF8"/><circle cx="99" cy="69" r="6" fill="#22D3EE" opacity="0.7"/><circle cx="121" cy="69" r="6" fill="#60A5FA" opacity="0.5"/>
+  <text x="650" y="75" text-anchor="end" fill="#7DD3FC" font-family="monospace" font-size="14" letter-spacing="2">ADITYA.OS / MOBILE</text>
+
+  <rect x="76" y="112" width="608" height="420" rx="30" fill="url(#mobileGlass)" stroke="#7DD3FC" stroke-opacity="0.48" stroke-width="2"/>
+  <g clip-path="url(#portraitClip)">
+    <rect x="100" y="112" width="560" height="360" fill="#07111D"/>
+    <image x="100" y="112" width="560" height="360" preserveAspectRatio="xMidYMid slice" xlink:href="assets/profile-biometric-dark.png" href="assets/profile-biometric-dark.png"/>
+    <rect x="100" y="112" width="560" height="360" fill="url(#mobileScanlines)" opacity="0.35"><animate attributeName="y" values="112;124;112" dur="8s" repeatCount="indefinite"/></rect>
+    <rect x="100" y="112" width="560" height="70" fill="url(#mobileBeam)" opacity="0.9">
+      <animate attributeName="y" values="112;402;112" dur="4.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <path d="M100 148 V124 H124 M636 124 H660 V148 M100 436 V460 H124 M636 460 H660 V436" fill="none" stroke="#7EE7FE" stroke-width="5" stroke-linecap="round"/>
+  <rect x="102" y="478" width="556" height="28" rx="14" fill="#07111D" stroke="#38BDF8" stroke-opacity="0.45"/>
+  <text x="120" y="497" fill="#A5F3FC" font-family="monospace" font-size="14" letter-spacing="2">FACE ID // BIOMETRIC VISION</text>
+  <text x="650" y="497" text-anchor="end" fill="#67E8F9" font-family="monospace" font-size="14">● ONLINE</text>
+
+  <g font-family="monospace">
+    <text x="78" y="582" fill="#7DD3FC" font-size="16" letter-spacing="2">$ whoami</text>
+    <text x="78" y="626" fill="#E0F2FE" font-size="22">Hi 👋 I'm</text>
+    <text x="78" y="684" fill="url(#mobileName)" font-size="46" font-weight="700">Aditya Pujari</text>
+    <text x="78" y="724" fill="#E0F2FE" font-size="24">Cloud &amp; DevOps Engineer</text>
+    <text x="78" y="758" fill="#93C5FD" font-size="17">DevOps • Kubernetes • SRE</text>
+    <text x="78" y="786" fill="#93C5FD" font-size="17">Infrastructure Automation • Cloud Native</text>
+    <rect x="78" y="812" width="604" height="1" fill="#7DD3FC" opacity="0.28"/>
+    <text x="78" y="852" fill="#E0F2FE" font-size="17" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4s" dur="0.8s" fill="freeze"/>📍 Pune</text>
+    <text x="78" y="882" fill="#CBD5E1" font-size="16" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.2s" dur="0.8s" fill="freeze"/>🎓 Final Year B.Tech Computer Engineering</text>
+    <text x="78" y="912" fill="#CBD5E1" font-size="16" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="6.4s" dur="0.8s" fill="freeze"/>☁ Building Cloud Native Infrastructure</text>
+    <text x="78" y="962" fill="#7DD3FC" font-size="16" letter-spacing="2">STATUS // BUILDING THE FUTURE</text>
+    <rect x="78" y="980" width="12" height="22" fill="#38BDF8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
