@@ -1,7 +1,7 @@
 <picture>
   <source media="(max-width: 767px)" srcset="./mobile.svg">
   <source media="(min-width: 768px)" srcset="./dark.svg">
-  <img alt="Aditya Pujari DevOps hero banner" src="./dark.svg" width="1280" height="560">
+  <img alt="Aditya Pujari DevOps hero banner" src="./dark.svg" width="1280" height="400">
 </picture>
 
 # Hi there 👋 I'm Aditya Pujari
