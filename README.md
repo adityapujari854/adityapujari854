@@ -1,5 +1,5 @@
 <picture>
-  <source media="(max-width: 767px)" srcset="./mobile.svg">
+  <source media="(max-widthhttps://github.com/adityapujari854: 767px)" srcset="./mobile.svg">
   <source media="(min-width: 768px)" srcset="./dark.svg">
   <img alt="Aditya Pujari DevOps hero banner" src="./dark.svg" width="1280" height="560">
 </picture>
