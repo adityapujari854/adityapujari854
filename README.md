@@ -1,257 +1,94 @@
 <picture>
-  <source media="(max-widthhttps://github.com/adityapujari854: 767px)" srcset="./mobile.svg">
+  <source media="(max-width: 767px)" srcset="./mobile.svg">
   <source media="(min-width: 768px)" srcset="./dark.svg">
-  <img alt="Aditya Pujari DevOps hero banner" src="./dark.svg" width="1280" height="450">
+  <img src="./dark.svg" alt="Aditya Pujari — Cloud & DevOps Engineer" width="1280" height="450">
 </picture>
 
-# Hi there 👋 I'm Aditya Pujari
+# Hi, I'm Aditya Pujari 👋
 
-## 🚀 About Me
+**Cloud & DevOps Engineer | AWS | Kubernetes | Docker | CI/CD | Python**
 
-I'm **Aditya Pujari**, a Final-Year B.Tech Computer Engineering student from Pune, India, passionate about **Cloud Computing, DevOps, Site Reliability Engineering (SRE), Infrastructure Automation, and AI-assisted Engineering**.
+B.Tech Computer Engineering graduate from Pune, India, focused on building **cloud-native infrastructure, automated deployments, reliable systems, and AI-assisted engineering solutions**.
 
-I enjoy designing cloud-native applications, automating deployments, building CI/CD pipelines, and managing scalable infrastructure using modern DevOps practices. My goal is to become a **DevOps, Cloud, Platform, or Site Reliability Engineer**, building secure, reliable, and highly available systems for production environments.
+🎯 Interested in **Cloud Engineering · DevOps · Platform Engineering · SRE**
 
-I also leverage AI tools such as **ChatGPT, GitHub Copilot, Cursor AI, Claude, and Gemini** to improve engineering productivity, automate repetitive tasks, accelerate debugging, and streamline documentation while following software engineering best practices.
-
----
-
-## 🌐 Portfolio
-
-**Portfolio:** https://aditya-devops-portfolio.vercel.app
+🌐 **[Portfolio](https://aditya-devops-portfolio.vercel.app)** · 💼 **[LinkedIn](https://www.linkedin.com/in/adityapujari854/)** · 📧 **[Email](mailto:adityapujari542@gmail.com)**
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### ☁️ Cloud
-
-* AWS (EC2, IAM, S3, VPC, ECR, CloudWatch, Security Groups)
-
-### ⚙️ DevOps & CI/CD
-
-* Docker
-* Docker Compose
-* Kubernetes
-* Helm
-* Jenkins
-* GitHub Actions
-* GitLab CI/CD
-* Git
-* GitHub
-
-### 🐧 Linux & Infrastructure
-
-* Linux Administration
-* SSH
-* Bash
-* Shell Scripting
-* Systemd
-* Cron
-* Networking
-* File Permissions
-* Nginx
-
-### 📊 Monitoring & Observability
-
-* Prometheus
-* Grafana
-* CloudWatch
-
-### 🏗️ Infrastructure as Code
-
-* Terraform *(Learning)*
-
-### 💻 Programming
-
-* Python
-* Bash
-* Shell Scripting
-* C++
-* C
-
-### 🔧 Backend
-
-* FastAPI
-* REST APIs
-
-### 🗄️ Databases
-
-* MongoDB
-* PostgreSQL
-* ChromaDB
-* Redis
-
-### 🤖 AI Productivity
-
-* ChatGPT
-* GitHub Copilot
-* Cursor AI
-* Claude
-* Gemini
-* Prompt Engineering
-* AI-assisted Debugging
-* AI-assisted Documentation
-* AI-assisted Code Review
+| Category         | Technologies                                                |
+| ---------------- | ----------------------------------------------------------- |
+| ☁️ Cloud         | AWS · EC2 · IAM · S3 · VPC · ECR · CloudWatch               |
+| ⚙️ DevOps        | Docker · Kubernetes · Helm · Jenkins · GitHub Actions · Git |
+| 🏗️ IaC          | Terraform · CloudFormation                                  |
+| 🐧 Linux         | Linux · Bash · SSH · Nginx · Systemd · Networking           |
+| 📊 Observability | Prometheus · Grafana · CloudWatch · SNS                     |
+| 💻 Programming   | Python · C++ · C · Bash                                     |
+| 🔧 Backend       | FastAPI · REST APIs                                         |
+| 🗄️ Databases    | PostgreSQL · MySQL · MongoDB · Redis · ChromaDB             |
+| 🤖 AI            | LLM APIs · Prompt Engineering · AI-assisted Development     |
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🤖 AI DevOps Assistant *(In Progress)*
+### 🤖 Nimbus AI Platform
 
-A production-inspired AIOps platform that assists DevOps engineers with intelligent troubleshooting and automation.
+**FastAPI · Docker · AWS EC2 · Nginx · Redis · ChromaDB · GitHub Actions**
 
-**Tech Stack**
+An AI-powered cloud-native platform designed with containerized architecture, automated deployment workflows, and vector-based conversational memory.
 
-* Python
-* FastAPI
-* Docker
-* GitHub Actions
-* Jenkins
-* AWS EC2
-* Redis
-* OpenAI/Groq API
+* AI-powered conversations with persistent vector memory
+* ChromaDB-based memory and retrieval
+* Containerized deployment using Docker
+* GitHub Actions CI/CD pipeline
+* AWS EC2 deployment
+* Nginx reverse proxy for application traffic
 
-**Key Features**
+### ☁️ AWS Inventory & Order Management Platform
 
-* AI-powered root cause analysis
-* Jenkins build log summarization
-* Docker error troubleshooting
-* Kubernetes issue recommendations
-* Linux command generation
-* Deployment assistance
+**FastAPI · MySQL · AWS EC2 · ALB · Auto Scaling · RDS · S3 · CloudFormation**
 
----
+A production-inspired business application for managing **products, inventory, suppliers, customer orders, analytics, and operational alerts** on a highly available AWS architecture.
 
-### ☁️ Nimbus AI Platform
-
-An AI-powered platform designed with cloud-native architecture and automated deployment workflows.
-
-**Tech Stack**
-
-* FastAPI
-* Docker
-* Docker Compose
-* AWS EC2
-* Nginx
-* ChromaDB
-* Redis
-* GitHub Actions
-
-**Key Features**
-
-* AI-powered conversations
-* Vector memory using ChromaDB
-* Containerized deployment
-* Automated CI/CD pipelines
-* AWS deployment
-* Reverse proxy with Nginx
+* Custom AWS VPC with layered security boundaries
+* FastAPI application deployed on EC2 behind an Application Load Balancer
+* RDS MySQL for transactional application data
+* S3 for product images and application assets
+* Auto Scaling for instance recovery and capacity management
+* CloudWatch dashboards, metrics and alarms with SNS notifications
+* IAM roles for secure AWS access without hard-coded credentials
+* CloudFormation for reproducible AWS infrastructure
+* Product, inventory, order, supplier and analytics workflows
+* Optional AI Inventory Advisor for inventory/reorder recommendations
 
 ---
 
-### 🏗️ AWS Infrastructure Automation
+## 📚 Currently Exploring
 
-Infrastructure provisioning using Infrastructure as Code principles.
-
-**Tech Stack**
-
-* Terraform
-* AWS EC2
-* IAM
-* VPC
-* Security Groups
-* Internet Gateway
-
-**Key Features**
-
-* Automated infrastructure provisioning
-* Secure networking
-* Reusable infrastructure modules
-* Cloud-native deployment
+**Amazon EKS · Advanced Kubernetes · Terraform · Helm · Argo CD · GitOps · Observability · SRE · AIOps**
 
 ---
 
-### ☸️ Kubernetes Monitoring Stack
+## 🎯 2026 Focus
 
-A monitoring solution for containerized workloads.
-
-**Tech Stack**
-
-* Kubernetes
-* Prometheus
-* Grafana
-* Docker
-
-**Key Features**
-
-* Cluster monitoring
-* Metrics visualization
-* Health dashboards
-* Alert-ready architecture
+* Build production-grade cloud-native projects
+* Strengthen AWS & Kubernetes expertise
+* Master CI/CD and Infrastructure as Code
+* Build reliable monitoring and observability systems
+* Contribute to open-source projects
+* Explore AI-powered DevOps automation
 
 ---
 
-### ⚙️ CI/CD Pipeline with Jenkins & GitHub Actions
+## 🤝 Connect
 
-Production-style CI/CD workflow for automated deployments.
-
-**Tech Stack**
-
-* Jenkins
-* GitHub Actions
-* Docker
-* AWS EC2
-
-**Key Features**
-
-* Automated builds
-* Docker image creation
-* Continuous deployment
-* GitHub integration
+🌐 [Portfolio](https://aditya-devops-portfolio.vercel.app)
+💼 [LinkedIn](https://www.linkedin.com/in/adityapujari854/)
+📧 [adityapujari542@gmail.com](mailto:adityapujari542@gmail.com)
 
 ---
 
-## 🌱 Currently Learning
-
-* Amazon EKS
-* Terraform
-* Helm
-* Argo CD
-* GitOps
-* Prometheus & Grafana
-* Monitoring & Observability
-* Site Reliability Engineering (SRE)
-* Advanced Kubernetes
-* Infrastructure as Code
-* AI for DevOps (AIOps)
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build production-ready cloud-native DevOps projects
-* ☸️ Master Kubernetes and container orchestration
-* ☁️ Earn AWS Certifications
-* ⚙️ Deepen expertise in CI/CD and Infrastructure as Code
-* 📊 Build complete monitoring and observability stacks
-* 🤝 Contribute to open-source DevOps projects
-* 🤖 Explore AI-powered DevOps and automation workflows
-
----
-
-## 🤝 Let's Connect
-
-🌐 **Portfolio:** https://aditya-devops-portfolio.vercel.app
-
-💻 **GitHub:** https://github.com/adityapujari854
-
-💼 **LinkedIn:** https://www.linkedin.com/in/adityapujari854/
-
-📧 **Email:** [adityapujari542@gmail.com](mailto:adityapujari542@gmail.com)
-
-📍 **Location:** Pune, Maharashtra, India
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories, connect with me, or collaborate on cloud, DevOps, and AI-powered engineering projects.*
+⭐ **Building cloud infrastructure, automating deployments, and learning something new every day.**
