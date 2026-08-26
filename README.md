@@ -8,7 +8,7 @@
 
 **Cloud & DevOps Engineer | AWS | Kubernetes | Docker | CI/CD | Python**
 
-Final-Year B.Tech Computer Engineering student from Pune, India, focused on building **cloud-native infrastructure, automated deployments, reliable systems, and AI-assisted engineering solutions**.
+B.Tech Computer Engineering graduate from Pune, India, focused on building **cloud-native infrastructure, automated deployments, reliable systems, and AI-assisted engineering solutions**.
 
 🎯 Interested in **Cloud Engineering · DevOps · Platform Engineering · SRE**
 
@@ -66,7 +66,7 @@ A production-inspired business application for managing **products, inventory, s
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
 **Amazon EKS · Advanced Kubernetes · Terraform · Helm · Argo CD · GitOps · Observability · SRE · AIOps**
 
