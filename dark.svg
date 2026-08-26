@@ -187,17 +187,14 @@
     <text x="55" y="318" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="16" fill="#94A3B8">DevOps, Kubernetes, SRE</text>
     <text x="55" y="353" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#94A3B8">Infrastructure Automation • Cloud Native</text>
 
-    <g opacity="0" >
+    <g opacity="1" >
       <text x="40" y="378" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#C7D2FE">📍 Pune, Maharashtra</text>
-      <animate attributeName="opacity" from="0" to="1" begin="4s" dur="0.8s" fill="freeze"/>
     </g>
-    <g opacity="0" transform="translate(0 24)">
+    <g opacity="1" transform="translate(0 24)">
       <text x="40" y="378" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#C7D2FE">🎓 Final Year B.Tech Computer Engineering</text>
-      <animate attributeName="opacity" from="0" to="1" begin="5.2s" dur="0.8s" fill="freeze"/>
     </g>
-    <g opacity="0" transform="translate(0 48)">
+    <g opacity="1" transform="translate(0 48)">
       <text x="40" y="378" font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="14" fill="#94A3B8">☁ Building Cloud Native Infrastructure</text>
-      <animate attributeName="opacity" from="0" to="1" begin="6.4s" dur="0.8s" fill="freeze"/>
     </g>
 
     <g transform="translate(55 466)" opacity="0.95">
