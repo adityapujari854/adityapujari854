@@ -1,7 +1,7 @@
 <picture>
   <source media="(max-width: 767px)" srcset="./mobile.svg">
   <source media="(min-width: 768px)" srcset="./dark.svg">
-  <img src="./dark.svg" alt="Aditya Pujari — Cloud & DevOps Engineer" width="900">
+  <img src="./dark.svg" alt="Aditya Pujari — Cloud & DevOps Engineer" width="1280" height="450">
 </picture>
 
 # Hi, I'm Aditya Pujari 👋
@@ -22,63 +22,47 @@ Final-Year B.Tech Computer Engineering student from Pune, India, focused on buil
 | ---------------- | ----------------------------------------------------------- |
 | ☁️ Cloud         | AWS · EC2 · IAM · S3 · VPC · ECR · CloudWatch               |
 | ⚙️ DevOps        | Docker · Kubernetes · Helm · Jenkins · GitHub Actions · Git |
-| 🏗️ IaC          | Terraform                                                   |
+| 🏗️ IaC          | Terraform · CloudFormation                                  |
 | 🐧 Linux         | Linux · Bash · SSH · Nginx · Systemd · Networking           |
-| 📊 Observability | Prometheus · Grafana · CloudWatch                           |
+| 📊 Observability | Prometheus · Grafana · CloudWatch · SNS                     |
 | 💻 Programming   | Python · C++ · C · Bash                                     |
 | 🔧 Backend       | FastAPI · REST APIs                                         |
-| 🗄️ Databases    | PostgreSQL · MongoDB · Redis · ChromaDB                     |
+| 🗄️ Databases    | PostgreSQL · MySQL · MongoDB · Redis · ChromaDB             |
 | 🤖 AI            | LLM APIs · Prompt Engineering · AI-assisted Development     |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI DevOps Assistant
+### 🤖 Nimbus AI Platform
 
-**Python · FastAPI · Docker · Jenkins · GitHub Actions · AWS · Redis**
+**FastAPI · Docker · AWS EC2 · Nginx · Redis · ChromaDB · GitHub Actions**
 
-Production-inspired AIOps platform for helping engineers troubleshoot infrastructure and deployment issues.
+An AI-powered cloud-native platform designed with containerized architecture, automated deployment workflows, and vector-based conversational memory.
 
-* AI-powered root-cause analysis
-* Jenkins & Docker log troubleshooting
-* Kubernetes issue recommendations
-* Linux command generation
-* Deployment assistance
+* AI-powered conversations with persistent vector memory
+* ChromaDB-based memory and retrieval
+* Containerized deployment using Docker
+* GitHub Actions CI/CD pipeline
+* AWS EC2 deployment
+* Nginx reverse proxy for application traffic
 
-### ☁️ Nimbus AI Platform
+### ☁️ AWS Inventory & Order Management Platform
 
-**FastAPI · Docker · AWS EC2 · Nginx · Redis · ChromaDB**
+**FastAPI · MySQL · AWS EC2 · ALB · Auto Scaling · RDS · S3 · CloudFormation**
 
-Cloud-native AI platform with automated deployment and vector-based conversational memory.
+A production-inspired business application for managing **products, inventory, suppliers, customer orders, analytics, and operational alerts** on a highly available AWS architecture.
 
-* Containerized architecture
-* GitHub Actions CI/CD
-* AWS deployment
-* ChromaDB vector memory
-* Nginx reverse proxy
-
-### 🏗️ AWS Infrastructure Automation
-
-**Terraform · AWS EC2 · IAM · VPC · Security Groups**
-
-Infrastructure-as-Code project focused on reproducible and secure AWS provisioning.
-
-* Automated infrastructure provisioning
-* Reusable Terraform configuration
-* Secure networking
-* IAM-based access control
-
-### ☸️ Kubernetes Monitoring Stack
-
-**Kubernetes · Prometheus · Grafana · Docker**
-
-Container monitoring stack for collecting infrastructure metrics and visualizing workload health.
-
-* Cluster monitoring
-* Metrics collection
-* Grafana dashboards
-* Alert-ready architecture
+* Custom AWS VPC with layered security boundaries
+* FastAPI application deployed on EC2 behind an Application Load Balancer
+* RDS MySQL for transactional application data
+* S3 for product images and application assets
+* Auto Scaling for instance recovery and capacity management
+* CloudWatch dashboards, metrics and alarms with SNS notifications
+* IAM roles for secure AWS access without hard-coded credentials
+* CloudFormation for reproducible AWS infrastructure
+* Product, inventory, order, supplier and analytics workflows
+* Optional AI Inventory Advisor for inventory/reorder recommendations
 
 ---
 
