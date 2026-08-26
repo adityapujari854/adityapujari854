@@ -86,7 +86,6 @@ A production-inspired business application for managing **products, inventory, s
 ## 🤝 Connect
 
 🌐 [Portfolio](https://aditya-devops-portfolio.vercel.app)
-💻 [GitHub](https://github.com/adityapujari854)
 💼 [LinkedIn](https://www.linkedin.com/in/adityapujari854/)
 📧 [adityapujari542@gmail.com](mailto:adityapujari542@gmail.com)
 
